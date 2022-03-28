@@ -4,4 +4,5 @@
 # Solr
   - https://blog.toadworld.com/2017/04/13/indexing-oracle-database-table-data-in-apache-solr-5-x-on-oracle-linux-6-x
   
-  
+# Performance Comparision 
+ - https://sematext.com/blog/solr-vs-elasticsearch-differences/
